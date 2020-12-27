@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:genshin_data/constants.dart';
-import 'package:genshin_data/models/Category.dart';
 import 'package:genshin_data/models/Product.dart';
 import 'package:genshin_data/screens/details/details_screen.dart';
 

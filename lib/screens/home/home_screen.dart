@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:genshin_data/models/Category.dart';
 import 'package:genshin_data/screens/home/components/body.dart';
 import 'package:genshin_data/widget.dart';
 
